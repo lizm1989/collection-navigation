@@ -5,6 +5,11 @@
 | [CDN加速服务 bootcdn.cn](http://www.bootcdn.cn/) |      |    |
 
 
+| git stars |           |   |
+| ------------- |:-------------:| -----:|
+| [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)| [jstips](https://github.com/loverajoel/jstips) |  [ 一套基于jquery或javascript的插件库](https://github.com/mumuy/widget) |
+| [HTTP API 设计指南(http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN)| [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) |   |
+| [OpenPower工作组收集汇总的医院开放数据](https://github.com/open-power-workgroup/Hospital)| |  [ |
 
 
 
@@ -23,7 +28,6 @@
 | ------------- |:-------------:| -----:|
 | [人机验证服务 luosimao.com](https://luosimao.com/)| [极验 geetest.com](http://www.geetest.com/) |   |
 | [慕课网 imooc.com](http://www.imooc.com/)| |   |
-https://meiriyiwen.com/
 
 
 | 收藏|           |   |
