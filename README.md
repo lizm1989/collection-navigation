@@ -37,7 +37,7 @@
 
 | 其他 |           |   |
 | ------------- |:-------------:| -----:|
-| [百度脑图](http://naotu.baidu.com/)|  |   |
+| [百度脑图](http://naotu.baidu.com/)|[百度图说](http://tushuo.baidu.com/)  |   |
 | [iconfont](http://www.iconfont.cn/)| [gogs自助Git服务](https://gogs.io/) | [SDK.CN开发者服务平台](https://sdk.cn/)  |
 | [快搜](http://search.chongbuluo.com/)|  [玩转PDF_smallpdf.com](https://smallpdf.com/cn)| [电子书搜索_jiumodiary](https://www.jiumodiary.com/)  | 
 | [钟馗之眼](https://www.zoomeye.org/)| [天眼查](http://www.tianyancha.com/) |   |
