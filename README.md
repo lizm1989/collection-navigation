@@ -16,7 +16,7 @@
 
 | spring |           |   |
 | ------------- |:-------------:| -----:|
-| [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)  | [StringRedisTemplate](http://blog.csdn.net/clementad/article/details/44064003) |   |
+| [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)  | [StringRedisTemplate](http://blog.csdn.net/clementad/article/details/44064003) |  [Spring Boot系列](https://zhuanlan.zhihu.com/p/24957789?refer=dreawer) |
 
 
 | 教程 |           |   |
